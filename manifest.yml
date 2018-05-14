@@ -1,3 +1,4 @@
 ---
 applications:
 - name: pal-tracker
+  random-route: true
