@@ -34,7 +34,6 @@ public class EnvController {
         environments.put("MEMORY_LIMIT", memoryLimit);
         environments.put("CF_INSTANCE_INDEX", cfInstanceIndex);
         environments.put("CF_INSTANCE_ADDR", cfInstanceAddress);
-
         return environments;
     }
 }
