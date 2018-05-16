@@ -95,5 +95,6 @@ public class TimeEntry {
     public void setHours(int hours) {
         this.hours = hours;
     }
+
 }
 
